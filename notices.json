@@ -2,7 +2,7 @@
   "notices": [
     {
       "id": "m365-email-2026-10-02",
-      "level": "outage",
+      "level": "resolved",
       "title": "Microsoft 365 email delays",
       "message": "Pop Box informed us that Microsoft is investigating email delays. Messages are arriving late but are not lost. No need to open a ticket; we'll post an update here.",
       "updated": "2026-10-02T09:15:00-04:00",
