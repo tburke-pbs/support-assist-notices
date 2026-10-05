@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-05T10:08:00-04:00",
+  "updated": "2026-10-05T10:55:00-04:00",
   "notices": [
     {
       "id": "m365-email-2026-10-02",
-      "level": "resolved",
-      "title": "Microsoft 365 email delays",
-      "message": "Pop Box informed us that Microsoft is investigating email delays. Messages are arriving late but are not lost. No need to open a ticket; we'll post an update here.",
-      "updated": "2026-10-02T09:15:00-04:00",
+      "level": "outage",
+      "title": "Microsoft 365 Sharepoint Down",
+      "message": "Due to mass confusion on how to use SharePoint, it has been burnt to the ground.",
+      "updated": "2026-10-05T10:55:00-04:00",
+      "companies": "all",
       "link": "https://status.cloud.microsoft/",
-      "linkText": "Microsoft 365 status",
-      "companies": "all"
+      "linkText": "Microsoft 365 status"
     },
     {
       "id": "3rd-floor-printer-down-2026-10-05-zcqb",
