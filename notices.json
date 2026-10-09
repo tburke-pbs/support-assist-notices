@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-05T10:55:00-04:00",
+  "updated": "2026-10-09T13:45:00-04:00",
   "notices": [
+    {
+      "id": "mom-is-in-town-2026-10-09-58ps",
+      "level": "warning",
+      "title": "Mom is in town",
+      "message": "you heard me",
+      "updated": "2026-10-09T13:45:00-04:00",
+      "companies": "all",
+      "end": "2026-10-12T12:15:00-04:00"
+    },
     {
       "id": "m365-email-2026-10-02",
       "level": "outage",
